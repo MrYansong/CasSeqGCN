@@ -1,5 +1,6 @@
 # CasSeqGCN
 CasSeqGCN: Combining Network Structure and Temporal Sequence to Predict Information Cascades
+
 An end-to-end deep learning framework, which combines the structural and temporal features to predict the growth size of
 a given cascade.
 
